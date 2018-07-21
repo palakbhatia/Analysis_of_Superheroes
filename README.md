@@ -1,6 +1,5 @@
-# Ananlysis_of_Superheroes
-# Project Title
-### Co-Authors
+# Analysis of Superheroes
+### Co-authors : Vinit Nair, Ben Richman
 
 ## Summary
 Superheroes and villains are products of their time - representations of people's hopes and fears. They are reflections of ourselves and the cultural experience at the time, but while representative of the whole, they often miss accurate representations of minorities. 
@@ -15,9 +14,9 @@ Each package can be installed through pip installation (https://packaging.python
 
 Note: Some packages like 'wordcloud' are smaller releases and must be installed through pip install and cannot be found in package managers.
 
-'''
+```
 pip install wordcloud
-'''
+```
 
 All packages except wordcloud function best in the latest update of Python 3. 
 
