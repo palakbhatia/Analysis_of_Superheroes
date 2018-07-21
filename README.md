@@ -40,41 +40,41 @@ These lasting superheroes are deep characters whose origins reflect the will of 
 
 ### Alignment by Gender
 
-![alt text][logo]
+![alt text][logo1]
 
-[logo]: https://github.com/palakbhatia/Analysis_of_Superheroes/blob/master/Plots/genders%20alignment.PNG "Gender Alignment"
+[logo1]: https://github.com/palakbhatia/Analysis_of_Superheroes/blob/master/Plots/genders%20alignment.PNG "Gender Alignment"
 
 Using Marvel Comics to dive into character alignment by gender, it is clear that male characters dominate the overall number of comic book characters. More interesting though, is that the distribution of alignment (good, bad, or neutral) is different for male characters than for other genders. Male characters are above-and-beyond bad, with around half as many good characters as bad, and around one quarter as many neutral as bad. 
 
 Switching to other genders, the good and bad characters are approximately equal, and neutral is around half as many as either. It may be that the prominence of bad male characters shows a self-awareness that males in America are more likely to commit violent crimes, or perhaps a dangerous grandeur that the type of power a bad character requires could only be gained by a male in American society. 
 
-![alt text][logo]
+![alt text][logo2]
 
-[logo]: https://github.com/palakbhatia/Analysis_of_Superheroes/blob/master/Plots/bad%20characters.PNG "Bad Characters Alignment"
+[logo2]: https://github.com/palakbhatia/Analysis_of_Superheroes/blob/master/Plots/bad%20characters.PNG "Bad Characters Alignment"
 
 To see if the representation of male-other changes over time, we plotted the gender ratio of new characters in each decade. Although there was a spike in the 50's, an increasing trend in 'other genders' becomes apparent starting in the '60s. The 1960s is not-coincidentally the renewed fight for women's equality that partnered with the Civil Rights Movement. Though while there is a smaller proportion of male characters in the modern times, it is still far from a 50-50 representation and appears to be slowing at around a 75-25 male-other gender ratio.
 
 ### Representation of Sexuality
 
-![alt text][logo]
+![alt text][logo3]
 
-[logo]: https://github.com/palakbhatia/Analysis_of_Superheroes/blob/master/Plots/sexual%20orientations.PNG "Sexual Orientation"
+[logo3]: https://github.com/palakbhatia/Analysis_of_Superheroes/blob/master/Plots/sexual%20orientations.PNG "Sexual Orientation"
 
 Sexuality may be the conversation at the forefront of the representation debate, and the representation of sexual orientation in comics is not does not show a balanced representation. Even looking at characters created after 2000, the representation is around 99% straight to 1% other, while the true population is around 90% straight and 10% other in a survey (https://www.psychologytoday.com/us/blog/sex-sexuality-and-romance/201607/how-many-straight-people-are-there).
 
 ### Popular Superpower Descriptions
 
-![alt text][logo]
+![alt text][logo4]
 
-[logo]: https://github.com/palakbhatia/Analysis_of_Superheroes/blob/master/Plots/word%20cloud.PNG "Popular Superpowers"
+[logo4]: https://github.com/palakbhatia/Analysis_of_Superheroes/blob/master/Plots/word%20cloud.PNG "Popular Superpowers"
 
 By counting the number of superheroes with a given power, we created a wordcloud with the most popular descriptions of superpowers. The most common power descriptions include common ones like control, power, mainpulation, and animal, but also some less likely ones like cryokinesis and radiation. 
 
 ### Settling Marvel vs DC: Movie Success
 
-![alt text][logo]
+![alt text][logo5]
 
-[logo]: https://github.com/palakbhatia/Analysis_of_Superheroes/blob/master/Plots/box%20office.PNG "Box Office Collection"
+[logo5]: https://github.com/palakbhatia/Analysis_of_Superheroes/blob/master/Plots/box%20office.PNG "Box Office Collection"
 
 While many comic fans have a deep personal preference for one comic universe or the other, there is no debate about which has been more successful in the box office. Marvel is far more successful, with the greatest DC movie not breaking the top 5 Marvel movies. 
 
