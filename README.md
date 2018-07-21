@@ -29,9 +29,9 @@ With Marvel and DC's recent return to movie spotlight, claiming 4 of the top 10 
 ### Superheroes and Their Origins Timeline
 To visualize the relationships between historical events and the superheroes that represent shifts in cultural paradigms, we plotted significant historical events and the first appearances of prominent superheroes to display the relationship. To enable interactivity, we used Plotly so that hovering over the superhero logo would provide information on the specific first appearance year. 
 
-_insert the image here_
 ![alt text][logo]
-[logo]: https://github.com/palakbhatia/Analysis_of_Superheroes/blob/master/Plots/superheroes%20timeline.JPG
+
+[logo]: https://github.com/palakbhatia/Analysis_of_Superheroes/blob/master/Plots/superheroes%20timeline.JPG "Logo 1"
 Captain America is a product of WW2, a military symbol of all cultural calls of the time - that America act against Nazism, fascism, and communism, with the utmost leadership, strength, and honor. 
 
 The Cold War brought renewed interest in science and nuclear energy. Prominent scientist-heroes emerged, such as the Flash, the Hulk and Iron Man. Each character's alter ego romanticized science as America started valuing scientists as cultural and political figures. 
