@@ -1,5 +1,5 @@
 # Analysis of Superheroes
-### Co-authors : Palak Bhatia, Ben Richman 
+### Co-authors : Vinit Nair, Ben Richman 
 
 To view the interactive plots you can check the python notebook at - 
 [NB Viewer Jupyter Notebook](http://nbviewer.jupyter.org/github/palakbhatia/Analysis_of_Superheroes/blob/5e6da407993928797967fe7c9aa3d42a105268d7/Notebook/Superheroes_v3.3.ipynb)
