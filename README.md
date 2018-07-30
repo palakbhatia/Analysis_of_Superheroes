@@ -11,7 +11,7 @@ Superheroes and villains are products of their time - representations of people'
 In this Github, there is a Python notebook titled Superheroes_v3.3.ipynb with details on the data mining, cleaning and analysis, and the production of the graphs and images. The corresponding datasets are also uploaded as .csv files. 
 
 ### Prerequisites/Tech Stack
-The following software is required for completing the notebook:
+The following softwares are required for completing the notebook:
     pandas, seaborn, matplotlib, plotly.
 Each package can be installed through pip installation (https://packaging.python.org/tutorials/installing-packages/) or some packages are available to install through package managers built into software like Canopy or Anaconda. 
 All packages function best in the latest update of Python 3. 
